@@ -1,0 +1,1 @@
+scalac -classpath /home/mika/LoveLetters/target/scala-2.10/classes -bootclasspath /home/mika/.sbt/boot/scala-2.10.6/lib/scala-library.jar /home/mika/LoveLetters/src/main/scala/rules.scala
